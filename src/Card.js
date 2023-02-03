@@ -13,6 +13,8 @@ function Card({product,addToCart,cartItems}) {
         <button disabled={cartItems.some(obj => obj.id === product.id )} onClick={()=>{addToCart(product)}}  className="btn btn-sm btn-primary">
           Add to Cart
         </button>
+        <div>
+        <a href="https://www.amazon.in/" className="btn btn-sm btn-primary"  > Buy Now </a></div>
       </div>
     </div>
   </div>

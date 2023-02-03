@@ -11,8 +11,8 @@ function App() {
    
       {
         id : 1,
-        Name: "iphone",
-        Price: 78000,
+        Name: "iphone 14 pro",
+        Price: 5000,
         img: "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-card-40-iphone14pro-202209_FMT_WHH?wid=508&hei=472&fmt=p-jpg&qlt=95&.v=1663611329204",
       },
       {
@@ -44,6 +44,24 @@ function App() {
         Name: "iwatch",
         Price: 28000,
         img: "https://images.macmerise.com/product/apple-watch-bands/mapwbslbabypink2.jpg ",
+      },
+      {
+        id : 7,
+        Name: "iphone 14 ",
+        Price: 5000,
+        img: "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-card-40-iphone14pro-202209_FMT_WHH?wid=508&hei=472&fmt=p-jpg&qlt=95&.v=1663611329204",
+      },
+      {
+        id : 8,
+        Name: "iphone 13 pro",
+        Price: 8000,
+        img: "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-card-40-iphone14pro-202209_FMT_WHH?wid=508&hei=472&fmt=p-jpg&qlt=95&.v=1663611329204",
+      },
+      {
+        id : 9,
+        Name: "iphone 12 ",
+        Price: 10000,
+        img: "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-card-40-iphone14pro-202209_FMT_WHH?wid=508&hei=472&fmt=p-jpg&qlt=95&.v=1663611329204",
       },
    
   ])
